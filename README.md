@@ -1,4 +1,3 @@
-# Introduction-to-MNIST-using-Keras
-This is my first introduction to MNIST data set using Keras framework. 
-I have tried few things by following the instructions from Deep Learning with Python.
-
+# Introduction-to-Deep-Learning-using-Keras
+This repository consists of the my deep learning python notebooks.
+I have used various data sets to refine my deep learning skills and will continue to update the repo with more notebooks
